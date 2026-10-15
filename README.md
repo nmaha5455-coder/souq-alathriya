@@ -1,0 +1,2 @@
+# souq-alathriya
+لعبه الاثرياء
